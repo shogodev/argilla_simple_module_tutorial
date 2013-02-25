@@ -1,0 +1,4 @@
+-- This file was created by ShogoCMS $Id: d6242f0a510ed3000bd17d9bfba8d1ebf0872153 $
+-- User: ${env.USER}	Hostname: ${host.name}
+-- PHP: ${php.version} ${phing.version}
+-- Original prefix: ${db.prefix}
